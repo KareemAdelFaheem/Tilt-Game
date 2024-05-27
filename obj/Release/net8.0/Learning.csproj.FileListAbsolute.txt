@@ -1,0 +1,14 @@
+A:\Programming\AlgoC#\Learning\bin\Release\net8.0\Learning.exe
+A:\Programming\AlgoC#\Learning\bin\Release\net8.0\Learning.deps.json
+A:\Programming\AlgoC#\Learning\bin\Release\net8.0\Learning.runtimeconfig.json
+A:\Programming\AlgoC#\Learning\bin\Release\net8.0\Learning.dll
+A:\Programming\AlgoC#\Learning\bin\Release\net8.0\Learning.pdb
+A:\Programming\AlgoC#\Learning\obj\Release\net8.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programming\AlgoC#\Learning\obj\Release\net8.0\Learning.AssemblyInfoInputs.cache
+A:\Programming\AlgoC#\Learning\obj\Release\net8.0\Learning.AssemblyInfo.cs
+A:\Programming\AlgoC#\Learning\obj\Release\net8.0\Learning.csproj.CoreCompileInputs.cache
+A:\Programming\AlgoC#\Learning\obj\Release\net8.0\Learning.dll
+A:\Programming\AlgoC#\Learning\obj\Release\net8.0\refint\Learning.dll
+A:\Programming\AlgoC#\Learning\obj\Release\net8.0\Learning.pdb
+A:\Programming\AlgoC#\Learning\obj\Release\net8.0\Learning.genruntimeconfig.cache
+A:\Programming\AlgoC#\Learning\obj\Release\net8.0\ref\Learning.dll
